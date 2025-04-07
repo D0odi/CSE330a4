@@ -3,7 +3,7 @@
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>+14809688885</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -14,7 +14,7 @@
   <Hotel Rating="4.0">
     <Name>Marriott</Name>
     <Phone>+16022259000</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Tempe</City>
@@ -26,7 +26,7 @@
     <Name>Hilton</Name>
     <Phone>+14809487750</Phone>
     <Phone>+14809485070</Phone>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>6333</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
